@@ -12,10 +12,10 @@ Sinta-se à vontade para explorar os projetos neste repositório. Cada projeto �
 
 ## Sobre Mim
 
-Meu nome é [Seu Nome], e sou um entusiasta da programação e da tecnologia. Estou constantemente buscando aprender e melhorar minhas habilidades de desenvolvimento de software, e este repositório é uma manifestação desse esforço contínuo.
+Meu nome é Samuel, e sou um entusiasta da programação e da tecnologia. Estou constantemente buscando aprender e melhorar minhas habilidades de desenvolvimento de software, e este repositório é uma manifestação desse esforço contínuo.
 
 ## Contato
 
-Se você tiver alguma pergunta ou apenas quiser entrar em contato, você pode me encontrar em [Seu Email] ou [Seu Perfil no GitHub].
+Se você tiver alguma pergunta ou apenas quiser entrar em contato, você pode me encontrar em samucafreitas2005@gmail.com.
 
 Espero que você encontre estes projetos interessantes e úteis!
